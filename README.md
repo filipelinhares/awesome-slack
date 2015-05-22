@@ -14,7 +14,7 @@
 - [GO](https://docs.google.com/forms/d/1Wk7Alq-lp9sgH3h___zMPmh4gAaghsGpnnsW0Pa_9Ik/viewform?fbzx=4754263898376949596#start=invite)
 
 ## Design
-- [Skecth](http://teamsketch.io/)
+- [Sketch](http://teamsketch.io/)
 - [Design Talks](https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1)
 
 ## Misc
