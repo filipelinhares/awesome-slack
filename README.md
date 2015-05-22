@@ -19,6 +19,10 @@
 
 ## Misc
 - [slashrocket](https://slashrocket.io/)
+- [WordPress](https://make.wordpress.org/chat/)
+- [Digital Nomad Chat](http://hashtagnomads.com/)
+- [Chit Chats](http://www.chitchats.co/)
+- [The Evangelist Collective](https://github.com/evangelistcollective/)
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome.
