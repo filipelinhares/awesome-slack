@@ -24,6 +24,7 @@
 - [Digital Nomad Chat](http://hashtagnomads.com/)
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
+- [a11y](https://web-a11y.herokuapp.com/)
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome.
