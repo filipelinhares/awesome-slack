@@ -9,6 +9,7 @@
 - [Laravel](https://larachat.co/)
 - [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
 - [Front end](http://frontenddevelopers.org/)
+- [FEDs On Slack](http://fedsonslack.com/)
 - [Test](http://hashtagtesting.com/)
 - [Android](http://androidchat.co/)
 - [GO](https://docs.google.com/forms/d/1Wk7Alq-lp9sgH3h___zMPmh4gAaghsGpnnsW0Pa_9Ik/viewform?fbzx=4754263898376949596#start=invite)
