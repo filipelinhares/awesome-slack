@@ -1,5 +1,8 @@
-# Awesome Slack
-> A list of communities powered by Slack.
+# Awesome [Slack](http://slack.com)
+A list of communities about web development and design that are powered by [Slack](http://slack.com).
+
+## What's Slack?
+> Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go. *- slack.com*
 
 ## Development
 - [React](http://www.reactiflux.com/)
