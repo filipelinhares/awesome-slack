@@ -19,6 +19,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Polymer](http://polymer-slack.herokuapp.com/)
 - [Symfony](https://symfony2slack.herokuapp.com/)
 - [Phalcon](http://chat.phalcontip.com)
+- [Clojure](https://clojurians.typeform.com/to/b4I3Nv)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
