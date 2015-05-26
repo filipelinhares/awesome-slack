@@ -32,6 +32,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
 - [a11y](https://web-a11y.herokuapp.com/)
+- [HangOps](http://signup.hangops.com)
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome.
