@@ -1,4 +1,5 @@
-# Awesome [Slack](http://slack.com)
+![Awesome Slack](images/logo.jpg)
+
 A list of communities about web development and design that are powered by [Slack](http://slack.com).
 
 ## What's Slack?
