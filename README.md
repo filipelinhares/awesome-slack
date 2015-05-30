@@ -36,5 +36,8 @@ A list of communities about web development and design that are powered by [Slac
 - [a11y](https://web-a11y.herokuapp.com/)
 - [HangOps](http://signup.hangops.com)
 
+## Looking for more lists like that?
+[Awesome](https://github.com/sindresorhus/awesome)
+
 ## Contribute
 Your contributions and suggestions are :heart: welcome.
