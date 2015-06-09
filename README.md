@@ -35,6 +35,7 @@ A list of communities about web development and design that are powered by [Slac
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
 - [a11y](https://web-a11y.herokuapp.com/)
 - [HangOps](http://signup.hangops.com)
+- [Psychedelic Chat](http://psychedelicchat.com/)
 
 ## Looking for more lists like that?
 [Awesome](https://github.com/sindresorhus/awesome)
