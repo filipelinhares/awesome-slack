@@ -23,6 +23,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Clojure](https://clojurians.typeform.com/to/b4I3Nv)
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
+- [DevOps](http://devopschat.co/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
