@@ -24,13 +24,13 @@ A list of communities about web development and design that are powered by [Slac
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
 - [DevOps](http://devopschat.co/)
+- [slashrocket](https://slashrocket.io/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
 - [Design Talks](https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1)
 
 ## Misc
-- [slashrocket](https://slashrocket.io/)
 - [WordPress](https://make.wordpress.org/chat/)
 - [Digital Nomad Chat](http://hashtagnomads.com/)
 - [Chit Chats](http://www.chitchats.co/)
