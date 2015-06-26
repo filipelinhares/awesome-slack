@@ -25,6 +25,8 @@ A list of communities about web development and design that are powered by [Slac
 - [Elixir](https://elixir-slackin.herokuapp.com/)
 - [DevOps](http://devopschat.co/)
 - [slashrocket](https://slashrocket.io/)
+- [Cordova](http://slack.cordova.io/)
+- [Atom](http://atom-slack.herokuapp.com/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
