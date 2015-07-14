@@ -46,3 +46,6 @@ A list of communities about web development and design that are powered by [Slac
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome.
+
+## License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
