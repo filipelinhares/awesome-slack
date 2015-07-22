@@ -20,7 +20,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Polymer](http://polymer-slack.herokuapp.com/)
 - [Symfony](https://symfony2slack.herokuapp.com/)
 - [Phalcon](http://chat.phalcontip.com)
-- [Clojure](https://clojurians.typeform.com/to/b4I3Nv)
+- [Clojure](http://clojurians.net/)
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
 - [DevOps](http://devopschat.co/)
