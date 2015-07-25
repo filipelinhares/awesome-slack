@@ -28,6 +28,9 @@ A list of communities about web development and design that are powered by [Slac
 - [Cordova](http://slack.cordova.io/)
 - [Atom](http://atom-slack.herokuapp.com/)
 
+## Regional
+- [Australia & New Zealand](http://devanz.co)
+
 ## Design
 - [Sketch](http://teamsketch.io/)
 - [Design Talks](https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1)
