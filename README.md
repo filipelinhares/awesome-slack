@@ -27,9 +27,12 @@ A list of communities about web development and design that are powered by [Slac
 - [slashrocket](https://slashrocket.io/)
 - [Cordova](http://slack.cordova.io/)
 - [Atom](http://atom-slack.herokuapp.com/)
+- [Quokka CMS](https://quokkaslack.herokuapp.com/)
 
 ## Regional
 - [Australia & New Zealand](http://devanz.co)
+- [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
+- [Python São Paulo Community](http://grupysp.herokuapp.com/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
