@@ -33,6 +33,8 @@ A list of communities about web development and design that are powered by [Slac
 - [Australia & New Zealand](http://devanz.co)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
+- [Python Curitiba Community](http://grupypr.herokuapp.com/)
+
 
 ## Design
 - [Sketch](http://teamsketch.io/)
