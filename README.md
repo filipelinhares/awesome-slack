@@ -33,6 +33,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Quokka CMS](https://quokkaslack.herokuapp.com/)
 
 ## Regional
+- [Asia - Focus Asia](http://focusasia.famouslabs.co?ref=github)
 - [Australia & New Zealand](http://devanz.co)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
