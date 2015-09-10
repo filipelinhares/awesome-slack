@@ -55,7 +55,8 @@ A list of communities about web development and design that are powered by [Slac
 - [LGBTQ in Technology](http://lgbtq.technology/)
 
 ## Looking for more lists like that?
-[Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Community](https://github.com/peterkokot/awesome-community)
 
 ## Contribute
 Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
