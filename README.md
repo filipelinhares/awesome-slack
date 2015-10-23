@@ -54,6 +54,7 @@ A list of communities about web development and design that are powered by [Slac
 - [HangOps](http://signup.hangops.com)
 - [Psychedelic Chat](http://psychedelicchat.com/)
 - [LGBTQ in Technology](http://lgbtq.technology/)
+- [#Startup](http://www.hashtagstartup.co/)
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
