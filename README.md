@@ -9,7 +9,6 @@ A list of communities about web development and design that are powered by [Slac
 > Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go. *- slack.com*
 
 ## Development
-- [React](http://www.reactiflux.com/)
 - [Angular](http://www.angularbuddies.com/)
 - [Ember](https://ember-community-slackin.herokuapp.com/)
 - [NodeJS](http://nodeslackers.io/)
