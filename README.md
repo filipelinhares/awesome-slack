@@ -30,6 +30,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Cordova](http://slack.cordova.io/)
 - [Atom](http://atom-slack.herokuapp.com/)
 - [Quokka CMS](https://quokkaslack.herokuapp.com/)
+- [#ruby, #python, #nodejs, #php, #go, #fed](http://www.hashtagdevelopers.com/)
 
 ## Regional
 - [Asia - Focus Asia](http://focusasia.famouslabs.co?ref=github)
