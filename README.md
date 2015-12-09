@@ -56,6 +56,7 @@ A list of communities about web development and design that are powered by [Slac
 - [LGBTQ in Technology](http://lgbtq.technology/)
 - [#Startup](http://www.hashtagstartup.co/)
 - [Digital Artisans](http://artisans.digital)
+- [Safelight](http://safelight.heroku.com/) - Photography  
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
