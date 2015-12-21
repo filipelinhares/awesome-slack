@@ -38,7 +38,8 @@ A list of communities about web development and design that are powered by [Slac
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
 - [Python Curitiba Community](http://grupypr.herokuapp.com/)
-
+- [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
+- [Kazan Developers](https://devkzn.slack.com/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
