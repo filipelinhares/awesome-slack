@@ -57,6 +57,7 @@ A list of communities about web development and design that are powered by [Slac
 - [#Startup](http://www.hashtagstartup.co/)
 - [Digital Artisans](http://artisans.digital)
 - [Safelight](http://safelight.heroku.com/) - Photography  
+- [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
