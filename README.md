@@ -20,6 +20,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Test](http://hashtagtesting.com/)
 - [Android](https://androidchat.co/)
 - [GO](https://docs.google.com/forms/d/1Wk7Alq-lp9sgH3h___zMPmh4gAaghsGpnnsW0Pa_9Ik/viewform?fbzx=4754263898376949596#start=invite)
+- [PHP Chat](https://phpchat.co)
 - [Polymer](http://polymer-slack.herokuapp.com/)
 - [Symfony](https://symfony2slack.herokuapp.com/)
 - [Phalcon](http://chat.phalcontip.com)
@@ -32,6 +33,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Atom](http://atom-slack.herokuapp.com/)
 - [Quokka CMS](https://quokkaslack.herokuapp.com/)
 - [#ruby, #python, #nodejs, #php, #go, #fed](http://www.hashtagdevelopers.com/)
+
 
 ## Regional
 - [Asia - Focus Asia](https://www.focusasia.xyz?ref=github)
