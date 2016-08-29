@@ -42,6 +42,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Python Curitiba Community](http://grupypr.herokuapp.com/)
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
+- [Polish developers](http://slackin.devstyle.pl/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
