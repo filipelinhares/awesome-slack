@@ -12,17 +12,16 @@ A list of communities about web development and design that are powered by [Slac
 ## Development
 - [Ember](https://ember-community-slackin.herokuapp.com/)
 - [NodeJS](http://nodeslackers.io/)
-- [Laravel](http://larachat.co/)
+- [Laravel](https://larachat.co/)
 - [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
 - [Front end](http://frontenddevelopers.org/)
-- [FEDs On Slack](http://fedsonslack.com/)
 - [Test](http://hashtagtesting.com/)
 - [Android](https://androidchat.co/)
-- [GO](https://docs.google.com/forms/d/1Wk7Alq-lp9sgH3h___zMPmh4gAaghsGpnnsW0Pa_9Ik/viewform?fbzx=4754263898376949596#start=invite)
+- [GO](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596)
 - [PHP Chat](https://phpchat.co)
 - [Polymer](http://polymer-slack.herokuapp.com/)
 - [Symfony](https://symfony2slack.herokuapp.com/)
-- [Phalcon](http://chat.phalcontip.com)
+- [Phalcon](http://slack.phalconphp.com)
 - [Clojure](http://clojurians.net/)
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
@@ -35,7 +34,7 @@ A list of communities about web development and design that are powered by [Slac
 
 
 ## Regional
-- [Asia - Focus Asia](https://www.focusasia.xyz?ref=github)
+- [Asia - Focus Asia](https://focusasia.xyz?ref=github)
 - [Australia & New Zealand](http://devanz.co)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
@@ -46,7 +45,7 @@ A list of communities about web development and design that are powered by [Slac
 
 ## Design
 - [Sketch](http://teamsketch.io/)
-- [Design Talks](https://docs.google.com/forms/d/1KFCWRmjL3Z0GZxrUZjy_f8s0x1dIGaJP9447FbuBSqg/viewform?c=0&w=1)
+- [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1)
 - [Designer Hangout](https://www.designerhangout.co/)
 
 ## Misc
@@ -55,10 +54,9 @@ A list of communities about web development and design that are powered by [Slac
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
 - [a11y](https://web-a11y.herokuapp.com/)
-- [HangOps](http://signup.hangops.com)
 - [Psychedelic Chat](http://psychedelicchat.com/)
 - [LGBTQ in Technology](http://lgbtq.technology/)
-- [#Startup](http://www.hashtagstartup.co/)
+- [#Startup](http://startup.chat)
 - [Digital Artisans](http://www.artisans.digital/)
 - [Safelight](http://safelight.herokuapp.com/) - Photography  
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
@@ -74,4 +72,4 @@ A list of communities about web development and design that are powered by [Slac
 Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
 
 ## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
