@@ -62,6 +62,9 @@ A list of communities about web development and design that are powered by [Slac
 - [Safelight](http://safelight.herokuapp.com/) - Photography  
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
 
+## DevOps
+- [Google Cloud Platform](http://bit.ly/gcp-slack)
+
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Community](https://github.com/peterkokot/awesome-community)
