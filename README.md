@@ -36,6 +36,7 @@ A list of communities about web development and design that are powered by [Slac
 ## Regional
 - [Asia - Focus Asia](https://focusasia.xyz?ref=github)
 - [Australia & New Zealand](http://devanz.co)
+- [Chicago Tech Slack](http://www.chicagotechslack.com/)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
 - [Python Curitiba Community](http://grupypr.herokuapp.com/)
