@@ -60,6 +60,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Digital Artisans](http://www.artisans.digital/)
 - [Safelight](http://safelight.herokuapp.com/) - Photography  
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
+- [First Contributors](https://firstcontributions.herokuapp.com) - Help / mentroship for open source contributors
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
