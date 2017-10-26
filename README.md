@@ -11,7 +11,6 @@ A list of communities about web development and design that are powered by [Slac
 
 ## Development
 - [Ember](https://ember-community-slackin.herokuapp.com/)
-- [NodeJS](http://nodeslackers.io/)
 - [Laravel](https://larachat.co/)
 - [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
 - [Front end](http://frontenddevelopers.org/)
@@ -19,12 +18,10 @@ A list of communities about web development and design that are powered by [Slac
 - [GO](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596)
 - [PHP Chat](https://phpchat.co)
 - [Polymer](http://polymer-slack.herokuapp.com/)
-- [Phalcon](http://slack.phalconphp.com)
 - [Clojure](http://clojurians.net/)
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
 - [DevOps](https://devopschat.co/)
-- [slashrocket](https://slashrocket.io/)
 - [Cordova](http://slack.cordova.io/)
 - [Atom](http://atom-slack.herokuapp.com/)
 - [Quokka CMS](https://quokkaslack.herokuapp.com/)
@@ -38,11 +35,11 @@ A list of communities about web development and design that are powered by [Slac
 - [Chicago Tech Slack](http://www.chicagotechslack.com/)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
-- [Python Curitiba Community](http://grupypr.herokuapp.com/)
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
 - [Spanish-speaking developer communities list](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
+- [Ruby Turkey Community](https://rubytr.herokuapp.com/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
