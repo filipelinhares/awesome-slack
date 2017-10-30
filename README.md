@@ -46,6 +46,7 @@ A list of communities about web development and design that are powered by [Slac
 
 ## Misc
 - [WordPress](https://make.wordpress.org/chat/)
+- [👋 Remote - Remote workers community](https://slack-helloremote.now.sh)
 - [Digital Nomad Chat](https://hashtagnomads.com/)
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
