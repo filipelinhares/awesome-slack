@@ -60,6 +60,7 @@ A list of communities about web development and design that are powered by [Slac
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
+- [Kubernetes](http://slack.kubernetes.io/)
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
