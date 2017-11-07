@@ -21,10 +21,9 @@ A list of communities about web development and design that are powered by [Slac
 - [Clojure](http://clojurians.net/)
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
-- [DevOps](https://devopschat.co/)
+- [slashrocket](https://slashrocket.io/)
 - [Cordova](http://slack.cordova.io/)
 - [Atom](http://atom-slack.herokuapp.com/)
-- [Quokka CMS](https://quokkaslack.herokuapp.com/)
 - [Python Community](https://pythoncommunity.herokuapp.com/)
 - [#ruby, #python, #nodejs, #php, #go, #fed](http://www.hashtagdevelopers.com/)
 
@@ -49,7 +48,6 @@ A list of communities about web development and design that are powered by [Slac
 ## Misc
 - [WordPress](https://make.wordpress.org/chat/)
 - [👋 Remote - Remote workers community](https://slack-helloremote.now.sh)
-- [Digital Nomad Chat](https://hashtagnomads.com/)
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
 - [a11y](https://web-a11y.herokuapp.com/)
@@ -64,6 +62,7 @@ A list of communities about web development and design that are powered by [Slac
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
 - [Kubernetes](http://slack.kubernetes.io/)
+- [DevOps](https://devopschat.co/)
 
 ## Looking for more lists like that?
 - [Awesome](https://github.com/sindresorhus/awesome)
