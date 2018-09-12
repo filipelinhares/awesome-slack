@@ -34,6 +34,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Chicago Tech Slack](http://www.chicagotechslack.com/)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
+- [Remote workers in Romania](https://weworkremotely.slack.com/)
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
