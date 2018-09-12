@@ -2,7 +2,16 @@
 
 We only remove the ones that do not work anymore.
 
-​:page_facing_up: **2017-11-07**
+​:page_facing_up: **2018-09-12**
+
+**REMOVED**
+- http://www.artisans.digital
+
+**UPDATED**
+- https://firstcontributors.slack.com -> [New link](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY)
+
+
+:page_facing_up: **2017-11-07**
 
 **REMOVED**
 - https://quokkaslack.herokuapp.com

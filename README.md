@@ -55,10 +55,9 @@ A list of communities about web development and design that are powered by [Slac
 - [Psychedelic Chat](http://psychedelicchat.com/)
 - [LGBTQ in Technology](http://lgbtq.technology/)
 - [#Startup](http://startup.chat)
-- [Digital Artisans](http://www.artisans.digital/)
 - [Safelight](http://safelight.herokuapp.com/) - Photography  
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
-- [First Contributors](https://firstcontributions.herokuapp.com) - Help / mentroship for open source contributors
+- [First Contributors](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY) - Help / mentroship for open source contributors
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
