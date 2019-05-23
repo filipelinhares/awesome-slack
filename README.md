@@ -26,6 +26,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Atom](http://atom-slack.herokuapp.com/)
 - [Python Community](https://pythoncommunity.herokuapp.com/)
 - [#ruby, #python, #nodejs, #php, #go, #fed](http://www.hashtagdevelopers.com/)
+- [CFML/ColdFusion](https://cfml-slack.herokuapp.com/)
 
 
 ## Regional
