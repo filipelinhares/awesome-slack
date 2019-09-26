@@ -33,6 +33,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Asia - Focus Asia](https://focusasia.xyz?ref=github)
 - [Australia & New Zealand](http://devanz.co)
 - [Chicago Tech Slack](http://www.chicagotechslack.com/)
+- [Les Pitonneux - Montreal QC Canada](https://pitonneux.slack.com)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
 - [Remote workers in Romania](https://weworkremotely.slack.com/)
@@ -42,6 +43,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Spanish-speaking developer communities list](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
 - [Ruby Turkey Community](https://rubytr.herokuapp.com/)
 - [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
+- [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
