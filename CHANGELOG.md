@@ -2,6 +2,16 @@
 
 We only remove the ones that do not work anymore.
 
+:page_facing_up: **2019-09-27**
+
+**REMOVED**
+- http://polymer-slack.herokuapp.com
+- http://atom-slack.herokuapp.com
+- https://web-a11y.herokuapp.com
+
+**UPDATED**
+- https://github.com/esebastian/awesome-spanish-slack-dev-groups -> [New link](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+
 ​:page_facing_up: **2018-09-12**
 
 **REMOVED**
