@@ -29,17 +29,13 @@ A list of communities about web development and design that are powered by **Sla
 - [slashrocket](https://slashrocket.io/)
 - [Cordova](http://slack.cordova.io/)
 - [Python Community](https://pythoncommunity.herokuapp.com/)
-- [Hashtag developers](http://www.hashtagdevelopers.com/)
 - [CFML/ColdFusion](https://cfml-slack.herokuapp.com/)
 
 
 ## Regional
-- [Asia - Focus Asia](https://focusasia.xyz?ref=github)
 - [Australia & New Zealand](http://devanz.co)
-- [Chicago Tech Slack](http://www.chicagotechslack.com/)
 - [Les Pitonneux - Montreal QC Canada](https://pitonneux.slack.com)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
-- [Python São Paulo Community](http://grupysp.herokuapp.com/)
 - [Remote workers in Romania](weworkremotely.slack.com/)
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
@@ -64,7 +60,7 @@ A list of communities about web development and design that are powered by **Sla
 - [#Startup](http://startup.chat)
 - [Safelight](http://safelight.herokuapp.com/) - Photography.
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security.
-- [First Contributors](https://firstcontributors.slack.com) - Help / mentorship for open source contributors.
+- [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - Help / mentorship for open source contributors.
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)

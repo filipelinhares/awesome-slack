@@ -2,6 +2,14 @@
 
 We only remove the ones that do not work anymore.
 
+:page_facing_up: **2020-06-04**
+
+**REMOVED**
+- http://www.hashtagdevelopers.com
+- https://focusasia.xyz
+- http://www.chicagotechslack.com
+- http://grupysp.herokuapp.com
+
 :page_facing_up: **2019-09-27**
 
 **REMOVED**
