@@ -60,6 +60,7 @@ A list of communities about web development and design that are powered by **Sla
 - [Safelight](http://safelight.herokuapp.com/) - Photography.
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security.
 - [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - Help / mentorship for open source contributors.
+- [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners and decision-makers by signing up for our free Slack Workspace, the IT Pro Community.
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
