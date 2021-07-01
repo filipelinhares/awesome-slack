@@ -66,7 +66,8 @@ A list of communities about web development and design that are powered by **Sla
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
 - [Kubernetes](http://slack.kubernetes.io/)
 - [DevOps](https://devopschat.co/)
-
+- [Devop Engineers](https://www.devopsengineers.com/)
+- [SweetOps](https://slack.cloudposse.com/)
 ## Looking for more lists like that
 - [Awesome Community](https://github.com/phpearth/awesome-community)
 
